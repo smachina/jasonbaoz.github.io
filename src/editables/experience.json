@@ -2,47 +2,63 @@
   "section_title": "Work Experience",
   "section_data": [
     {
-      "header": "Facebook",
-      "header_link": "https://facebook.com",
-      "title": "Software Engineer Intern (Incoming)",
-      "second_right_align": "August 2018 - December 2018",
-      "first_right_align": "Menlo Park, California",
+      "header": "Under Armour",
+      "header_link": "https://upp.berkeley.edu/news/UAInternshipExperience",
+      "title": "Marketing Data Analytics Intern",
+      "second_right_align": "May 2019 - August 2019",
+      "first_right_align": "Austin, Texas",
       "details": [
-        "Incoming!"
+        "Optimized the ad vendor rankings in MyFitnessPal’s waterfall bidding auction by analyzing CPM and revenue trends through the use of time-series analysis after factoring in the impact of Europe’s GDPR law on UA’s ad inventory",
+        "Led requirements gathering and development of a customer segmentation tool utilized for user behavioral analytics on the world’s largest nutritional, health, and wellness social platform, MyFitnessPal with over 125M regular users",
+        "Performed exploratory data analysis and gaussian mixture modeling to identify significant predictive variables of a “heart healthy” user segment and trained a regression tree algorithm with them (bmi, activity levels, nutritional intake, etc.)",
+        "Built a data cleaning and analytics tool with a UX feature that has reduced data processing time of 3-8M records from 18+ hours to 3; it was successfully deployed and implemented during the summer to obtain 225k worth of revenue"
       ]
     },
     {
-      "header": "Bridgewater Associates",
-      "header_link": "https://bridgewater.com",
-      "title": "Investment Engineer Intern (Incoming)",
-      "second_right_align": "June 2018 - August 2018",
-      "first_right_align": "Westport, Connecticut",
+      "header": "Genentech",
+      "header_link": "https://www.gene.com/",
+      "title": "Business Operations and Pharma Informatics Intern",
+      "second_right_align": "May 2018 - January 2019",
+      "first_right_align": "San Francisco, California",
       "details": [
-        "Incoming!"
+        "Conferred with Business Systems Analyst to collect requirements from clients and identified the most fitting visualizations per their needs; created dashboards using Tableau, SQL, and Python, and publishing the products on the company server",
+        "Designed and presented automated Tableau reports based on key performance indicators (KPIs) such as write offs rate, adherence to lead time, serious injury rate and order lead time for the global head of Drug Substance of Genentech",
+        "Developed proof of concepts to test the data source compatibility and the viability of automation for various clients"
       ]
     },
     {
-      "header": "Neurotrack",
-      "header_link": "https://neurotrack.com/",
-      "title": "Machine Learning Research",
-      "second_right_align": "May 2017 - December 2017",
-      "first_right_align": "Redwood City, California",
+      "header": "PayPal | Valley Consulting Group",
+      "header_link": "https://www.paypal.com/us/home",
+      "title": "Project Manager",
+      "second_right_align": "January 2019 - May 2019",
+      "first_right_align": "Berkeley, California",
       "details": [
-        "Analyzed feature space with tools such as SVD, PCA and Spectral Clustering. Analyzed quality of the data by calculating variance of the eye-gaze plots clustered by locations weighted by pupil diameter variance. Integrated saccade orientation related features from other research papers.", 
-        "Created a presentation with ROC curves, Mesh Grids, Cross-Validation charts and Histograms – beginning the process to publish results.",
-        "Researched and subsequently extracted features from the 2012 Zola Study dataset with a fixation-saccade algorithm from 100+ GB .eyd binary files. Created infrastructure to store data into .json files - required optimized processing since .eyd files could not be stored in memory.",
-        "Used bootstrapped learning to train Naïve Bayes, SVM and Logistic Regression (used AdaBoost) models, integrated extracted features into existing consumer data and built Django API endpoints to obtain relevant data and designed models to add comments, metadata and scores."
+        "Led a team of 6 consultants to research and benchmark novel AI algorithms used in customer service departments",
+        "Developed a proof of concept report explaining how PayPal can use existing data of users’ demographics and their UX interaction patterns to create personalized experiences on “customer help” platforms (AI chatbot, phone call, email, etc.)"
       ]
     },
     {
-      "header": "Bitwage",
-      "header_link": "https://bitwage.com/",
+      "header": "eBay | Valley Consulting Group",
+      "header_link": "https://www.ebay.com",
+      "title": "Senior Consultant",
+      "second_right_align": "September 2018 - December 2018",
+      "first_right_align": "Berkeley, California",
+      "details": [
+        "Scored eBay’s SEO performance considering factors such as domain authority, backlink quality and keyword placement by trying to reverse engineer the algorithms of trusted industry SEO ranking tools using Python and Tableau",
+        "Benchmarking and quantifying current SEO performance through the search query analysis of over 100,000 URLs and looking up various keywords that correlate with product categories that eBay is interested in using Pandas",
+        "Created an algorithm for the digital ranking of each of eBay’s product categories and identify areas of potential growth"
+      ]
+    },
+    {
+      "header": "Google | Valley Consulting Group",
+      "header_link": "https://edu.google.com/",
       "title": "Software Engineer Internship",
       "second_right_align": "June 2016 - August 2017",
       "first_right_align": "San Francisco, California",
       "details": [
-        "Full stack web development with Google App Engine using a Flask framework – extensive coding with Python, JavaScript, and Jinja2", 
-        "Integrated API’s from 10 bit exchanges (used OAuth2 authentication) and designed 3 RESTful API endpoints for various currency functionalities including querying specific data and creating company profiles – worked directly with reps from each company w/ an API"
+        "Experimented with different methods of data collection (manual, custom-built web scraper, third party websites) and calculated relative accuracy by comparing the number of accurate URLs to those that Google’s search currently provides",
+        "Utilized Python to find correlations between variables such as acceptance rate, federal funding, accreditations, and tuition and the difficulty of data collection for each school in order to predict factors of difficulty with data maintenance",
+        "Competitive analysis of the industry – including demographics, marketing strategy, information accuracy, and market share"
       ]
     }
   ]
@@ -50,77 +66,20 @@
 {
   "section_title": "Leadership Experience",
   "section_data": [
-    {
-      "header": "UC Berkeley UGBA 198 (ML for Business Decisions)",
-      "header_link": "https://ugba198.com",
-      "title": "Co-founder and Instructor",
-      "second_right_align": "",
-      "first_right_align": "September 2017 - Present",
-      "details": [
-        "Cofounded with one other student one of the most popular ML courses at Berkeley (200+ signups).",
-        "Responsibilities included content generation, lecturing, and facilitating"
-      ]
-    },
-    {
-      "header": "Blueprint, Technology for Nonprofits",
-      "header_link": "https://calblueprint.org",
-      "title": "Project Leader and Project Developer",
-      "second_right_align": "",
-      "first_right_align": "January 2017 - Present",
-      "details": [
-        "Veterans 360 – Ruby on Rails + React / React Native, web and mobile application allowing veterans to connect with other veterans and resources in their area. Lead a team of 4 individuals in building the application, reviewing pull requests and assigning sprint tasks. ",
-        "Roots of Success - Developed using Ruby on Rails, React.js - created a dynamic and scalable web platform that allowed the NPO to upload course content and allowed their target demographic to take the uploaded course tracking progress and course completion. Implemented features include student and admin course dashboards, draggable components, interactive teaching slides, ability to add audio and more",
-        "Both available @ github.com/jasonbaoz"
-      ]
-    }, 
-    {
-      "header": "UC Berkeley CS 189 / 289A",
-      "header_link": "https://eecs189.org",
-      "title": "Course Tutor and Reader",
-      "second_right_align": "",
-      "first_right_align": "August 2017 - Present",
-      "details": [
-        "Lead office hours and graded homeworks & tests for the undergraduate and graduate combined machine learning course at U.C. Berkeley"
-      ]
-    }, 
+
     {
       "header": "Valley Consulting Group",
       "header_link": "https://vcg.berkeley.edu",
-      "title": "Founder",
+      "title": "Vice President of Development",
       "second_right_align": "",
-      "first_right_align": "January 2016 - Present",
+      "first_right_align": "December 2019 - Present",
       "details": [
-        "Justin made the website"
-      ]
-    },
-    {
-      "header": "Eagle Scout",
-      "header_link": "https://scouting.org",
-      "title": "",
-      "second_right_align": "",
-      "first_right_align": "August 2005 - December 2014",
-      "details": [
-        "Eagle Project: On My Feet (Web) – PHP/Vanilla JS/HTML, API’s including Google Maps, Google Directions etc. – included 1400 resources obtained through extensive DOM scraping (xPath, cURL) and crowd-sourcing – attracted over 400 weekly users at peek by 3 separate homeless organizations around the Bay Area. Gave several workshops on site functionality, teaching intake workers how to add, edit resource etc.",
-        "Available @ github.com/jasonbaoz/on-my-feet"
+        "Train and guide 10 new members to reach their personal, professional, and social goals"
       ]
     }
   ]
 },
-{
-  "section_title": "Other Experience",
-  "section_data": [
-    {
-      "header": "Undergraduate Research",
-      "header_link": "",
-      "title": "",
-      "second_right_align": "",
-      "first_right_align": "January 2017 - May 2017",
-      "details": [
-        "Worked with Professor Josh Hug to utilize Machine Learning libraries to intelligently analyze Congressional transcripts (SPCA), annotated and cleaned large CSV files with Pandas to make them more usable and to add relevant meta data to the files. Other tech includes Scipy, Numpy etc."
-      ]
-    }
-  ]
-},
+
 {
   "section_title": "Skills and Interests",
   "section_data": [
