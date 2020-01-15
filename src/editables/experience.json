@@ -65,7 +65,7 @@
 },
 {
   "section_title": "Leadership Experience",
-  "section_data": [
+  "section_data":
 
     {
       "header": "Valley Consulting Group",
@@ -75,13 +75,13 @@
       "first_right_align": "December 2019 - Present",
       "details": "Train and guide 10 new members to reach their personal, professional, and social goals"
     }
-  ]
+
 },
 
 {
   "section_title": "Skills and Interests",
-  "section_data": [
+  "section_data": ""
 
-  ]
+
 }
 ]
